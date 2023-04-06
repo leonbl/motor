@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include <analogWrite.h>
 
 #define E1A 15
 #define E1B 16
