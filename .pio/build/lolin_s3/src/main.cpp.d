@@ -173,4 +173,5 @@
  C:/Users/leonb/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/spi_flash/include/esp_spi_flash.h \
  C:/Users/leonb/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/spi_flash/include/esp_spi_flash_counters.h \
  C:/Users/leonb/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hw_support/include/soc/esp32/spiram.h \
- .pio/libdeps/lolin_s3/ESP32\ AnalogWrite/src/analogWrite.h
+ .pio/libdeps/lolin_s3/ESP32\ AnalogWrite/src/analogWrite.h \
+ .pio/libdeps/lolin_s3/PID/PID_v1.h
